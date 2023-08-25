@@ -1,0 +1,35 @@
+{
+  "name": "r-swiper",
+  "version": "1.0.71",
+  "main": "index.js",
+  "description": "The vue3.0 version of the swiper plug-in, both mobile and PC have been adapted",
+  "scripts": {},
+  "keywords": [
+    "r-swiper",
+    "swiper",
+    "vue3",
+    "wenran"
+  ],
+  "homepage": "https://github.com/zywr012345/r-swiper#readme",
+  "bugs": {
+    "url": "https://github.com/zywr012345/r-swiper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zywr012345/r-swiper.git"
+  },
+  "author": {
+    "name": "wenran",
+    "email": "zywr012345@gmail.com"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@esbuild/win32-x64": "^0.17.19"
+  },
+  "license": "ISC"
+}
